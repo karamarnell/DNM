@@ -1,0 +1,2727 @@
+/* No comment provided by engineer. */
+"
+              Upload a valid
+              document
+              " = "
+              Upload a valid
+              document
+              ";
+
+/* No comment provided by engineer. */
+"
+            Congrats your document
+            was approved!
+            " = "
+            Congrats your document
+            was approved!
+            ";
+
+/* No comment provided by engineer. */
+"
+            ID deleted
+            successfully!
+            " = "
+            ID deleted
+            successfully!
+            ";
+
+/* No comment provided by engineer. */
+"
+            ID uploaded
+            successfully!
+            " = "
+            ID uploaded
+            successfully!
+            ";
+
+/* No comment provided by engineer. */
+" is invalid." = " is invalid.";
+
+/* No comment provided by engineer. */
+" Joint %@ Type" = " Joint %@ Type";
+
+/* No comment provided by engineer. */
+" step left" = " step left";
+
+/* No comment provided by engineer. */
+" steps left" = " steps left";
+
+/* No comment provided by engineer. */
+"AC Cleaner" = "AC Cleaner";
+
+/* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
+"Add %@ Joint %@" = "Add %1$@ Joint %2$@";
+
+/* No comment provided by engineer. */
+"Add a Number" = "Add a Number";
+
+/* No comment provided by engineer. */
+"Add Address" = "Add Address";
+
+/* No comment provided by engineer. */
+"Add Delivery Address" = "Add Delivery Address";
+
+/* No comment provided by engineer. */
+"Add landline number" = "Add landline number";
+
+/* No comment provided by engineer. */
+"Add Phone" = "Add Phone";
+
+/* No comment provided by engineer. */
+"Add your identification documents" = "Add your identification documents";
+
+/* No comment provided by engineer. */
+"add.comments.photos" = "add.comments.photos";
+
+/* No comment provided by engineer. */
+"Added comment" = "Added comment";
+
+/* No comment provided by engineer. */
+"Address" = "Address";
+
+/* No comment provided by engineer. */
+"AED" = "AED";
+
+/* No comment provided by engineer. */
+"AED " = "AED ";
+
+/* No comment provided by engineer. */
+"Agent Company Name" = "Agent Company Name";
+
+/* No comment provided by engineer. */
+"Agent Details" = "Agent Details";
+
+/* No comment provided by engineer. */
+"Agent Email ID" = "Agent Email ID";
+
+/* No comment provided by engineer. */
+"Agent Mobile Number" = "Agent Mobile Number";
+
+/* No comment provided by engineer. */
+"Agent Name" = "Agent Name";
+
+/* No comment provided by engineer. */
+"agent.tenantPhotoDocs.title" = "agent.tenantPhotoDocs.title";
+
+/* No comment provided by engineer. */
+"Alert" = "Alert";
+
+/* No comment provided by engineer. */
+"Alert!" = "Alert!";
+
+/* No comment provided by engineer. */
+"alert.call.message" = "alert.call.message";
+
+/* No comment provided by engineer. */
+"alert.call.title" = "alert.call.title";
+
+/* No comment provided by engineer. */
+"alert.call.unable" = "alert.call.unable";
+
+/* No comment provided by engineer. */
+"alert.cancel" = "alert.cancel";
+
+/* No comment provided by engineer. */
+"alert.cancel.title" = "alert.cancel.title";
+
+/* No comment provided by engineer. */
+"alert.forget.username.message" = "alert.forget.username.message";
+
+/* No comment provided by engineer. */
+"alert.message.noevents" = "alert.message.noevents";
+
+/* No comment provided by engineer. */
+"alert.ok" = "alert.ok";
+
+/* No comment provided by engineer. */
+"alert.okGot.title" = "alert.okGot.title";
+
+/* No comment provided by engineer. */
+"alert.title" = "alert.title";
+
+/* No comment provided by engineer. */
+"alert.title.sorry" = "alert.title.sorry";
+
+/* No comment provided by engineer. */
+"alert.title.success" = "alert.title.success";
+
+/* No comment provided by engineer. */
+"alert.unexpected.error" = "alert.unexpected.error";
+
+/* No comment provided by engineer. */
+"All auto-pay transactions with reference number %@ will be cancelled. " = "All auto-pay transactions with reference number %@ will be cancelled. ";
+
+/* No comment provided by engineer. */
+"All required documents uploaded" = "All required documents uploaded";
+
+/* No comment provided by engineer. */
+"Amenities cannot be booked for this property." = "Amenities cannot be booked for this property.";
+
+/* No comment provided by engineer. */
+"amenities.issue.bookProperty" = "amenities.issue.bookProperty";
+
+/* No comment provided by engineer. */
+"Amount" = "Amount";
+
+/* No comment provided by engineer. */
+"An error occured whilst validating the phone number." = "An error occured whilst validating the phone number.";
+
+/* No comment provided by engineer. */
+"anytime.today" = "anytime.today";
+
+/* No comment provided by engineer. */
+"App does not have access to Location. To enable access tap settings and turn on Location" = "App does not have access to Location. To enable access tap settings and turn on Location";
+
+/* No comment provided by engineer. */
+"App does not have access to your camera. To enable access tap settings and turn on Camera" = "App does not have access to your camera. To enable access tap settings and turn on Camera";
+
+/* No comment provided by engineer. */
+"appreciate.uploading.document" = "appreciate.uploading.document";
+
+/* No comment provided by engineer. */
+"APPROVE QUOTE" = "APPROVE QUOTE";
+
+/* No comment provided by engineer. */
+"Approved On" = "Approved On";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to add new email address?" = "Are you sure that you want to add new email address?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to add Phone number?" = "Are you sure that you want to add Phone number?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to add phone number?" = "Are you sure that you want to add phone number?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to add primary email address?" = "Are you sure that you want to add primary email address?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to add primary Mobile number?" = "Are you sure that you want to add primary Mobile number?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to add primary mobile?" = "Are you sure that you want to add primary mobile?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to change primary email address?" = "Are you sure that you want to change primary email address?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to change primary mobile?" = "Are you sure that you want to change primary mobile?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to udpate address?" = "Are you sure that you want to udpate address?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update address?" = "Are you sure that you want to update address?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update email address?" = "Are you sure that you want to update email address?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update Email?" = "Are you sure that you want to update Email?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update Emirates ID information?" = "Are you sure that you want to update Emirates ID information?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update passport information?" = "Are you sure that you want to update passport information?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update Phone number?" = "Are you sure that you want to update Phone number?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update primary Email?" = "Are you sure that you want to update primary Email?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update primary Mobile number?" = "Are you sure that you want to update primary Mobile number?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update Trade License?" = "Are you sure that you want to update Trade License?";
+
+/* No comment provided by engineer. */
+"Are you sure that you want to update Visa information?" = "Are you sure that you want to update Visa information?";
+
+/* No comment provided by engineer. */
+"Are you sure to cancel the payment?" = "Are you sure to cancel the payment?";
+
+/* No comment provided by engineer. */
+"Are you sure to cancel?" = "Are you sure to cancel?";
+
+/* No comment provided by engineer. */
+"Are you sure to remove your profile picture?" = "Are you sure to remove your profile picture?";
+
+/* No comment provided by engineer. */
+"Are you sure to upload profile picture?" = "Are you sure to upload profile picture?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to cancel auto-pay for all transactions?" = "Are you sure you want to cancel auto-pay for all transactions?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to change the language?" = "Are you sure you want to change the language?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to go back ? Selecting 'Yes' will discard all your current changes." = "Are you sure you want to go back ? Selecting 'Yes' will discard all your current changes.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to log out?" = "Are you sure you want to log out?";
+
+/* No comment provided by engineer. */
+"Are you sure you would like to delete this document?" = "Are you sure you would like to delete this document?";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Are you sure?";
+
+/* No comment provided by engineer. */
+"Area Sqft." = "Area Sqft.";
+
+/* No comment provided by engineer. */
+"Arrived Time" = "Arrived Time";
+
+/* No comment provided by engineer. */
+"ask.confirm.password" = "ask.confirm.password";
+
+/* No comment provided by engineer. */
+"ask.connectInternet" = "ask.connectInternet";
+
+/* No comment provided by engineer. */
+"ask.correct.otp" = "ask.correct.otp";
+
+/* No comment provided by engineer. */
+"ask.delete.document" = "ask.delete.document";
+
+/* No comment provided by engineer. */
+"ask.emailAddress" = "ask.emailAddress";
+
+/* No comment provided by engineer. */
+"ask.emailContent" = "ask.emailContent";
+
+/* No comment provided by engineer. */
+"ask.emaiPassword" = "ask.emaiPassword";
+
+/* No comment provided by engineer. */
+"ask.exit.screen" = "ask.exit.screen";
+
+/* No comment provided by engineer. */
+"ask.fullName" = "ask.fullName";
+
+/* No comment provided by engineer. */
+"ask.how.upload" = "ask.how.upload";
+
+/* No comment provided by engineer. */
+"ask.meeting.dataTime" = "ask.meeting.dataTime";
+
+/* No comment provided by engineer. */
+"ask.phoneNumber" = "ask.phoneNumber";
+
+/* No comment provided by engineer. */
+"ask.provide.completeInfo.relationshipManager" = "ask.provide.completeInfo.relationshipManager";
+
+/* No comment provided by engineer. */
+"ask.purpose.meeting" = "ask.purpose.meeting";
+
+/* No comment provided by engineer. */
+"ask.rate.experience.stars" = "ask.rate.experience.stars";
+
+/* No comment provided by engineer. */
+"ask.select.countryCode" = "ask.select.countryCode";
+
+/* No comment provided by engineer. */
+"ask.valid.credential" = "ask.valid.credential";
+
+/* No comment provided by engineer. */
+"ask.valid.dateTime" = "ask.valid.dateTime";
+
+/* No comment provided by engineer. */
+"ask.valid.email" = "ask.valid.email";
+
+/* No comment provided by engineer. */
+"ask.valid.purpose" = "ask.valid.purpose";
+
+/* No comment provided by engineer. */
+"ask.which.doc.upload" = "ask.which.doc.upload";
+
+/* No comment provided by engineer. */
+"associate.request.to.notification.fail" = "associate.request.to.notification.fail";
+
+/* No comment provided by engineer. */
+"associated.case.unavailableForREquest" = "associated.case.unavailableForREquest";
+
+/* No comment provided by engineer. */
+"Attachment" = "Attachment";
+
+/* No comment provided by engineer. */
+"attachment.error.exceededLimit" = "attachment.error.exceededLimit";
+
+/* No comment provided by engineer. */
+"attachment.preview.error" = "attachment.preview.error";
+
+/* No comment provided by engineer. */
+"audio.permissible.limit.reached" = "audio.permissible.limit.reached";
+
+/* No comment provided by engineer. */
+"authenticating" = "authenticating";
+
+/* No comment provided by engineer. */
+"Auto pay is successfully cancelled" = "Auto pay is successfully cancelled";
+
+/* No comment provided by engineer. */
+"back" = "back";
+
+/* No comment provided by engineer. */
+"Back" = "Back";
+
+/* No comment provided by engineer. */
+"Bedrooms" = "Bedrooms";
+
+/* No comment provided by engineer. */
+"book.amenities" = "book.amenities";
+
+/* No comment provided by engineer. */
+"Bug submission failed." = "Bug submission failed.";
+
+/* No comment provided by engineer. */
+"Bug submitted successfully. Your reference number is " = "Bug submitted successfully. Your reference number is ";
+
+/* No comment provided by engineer. */
+"Buyer" = "Buyer";
+
+/* No comment provided by engineer. */
+"Buyer Details" = "Buyer Details";
+
+/* No comment provided by engineer. */
+"By clicking on ‘Pay Now’ you are agreeing to our Terms & Conditions" = "By clicking on ‘Pay Now’ you are agreeing to our Terms & Conditions";
+
+/* No comment provided by engineer. */
+"By clicking on ‘SET-UP AUTO PAY’ you are agreeing to our Terms & Conditions" = "By clicking on ‘SET-UP AUTO PAY’ you are agreeing to our Terms & Conditions";
+
+/* No comment provided by engineer. */
+"Call" = "Call";
+
+/* No comment provided by engineer. */
+"Call us and our executives will assist you." = "Call us and our executives will assist you.";
+
+/* No comment provided by engineer. */
+"Camera" = "Camera";
+
+/* No comment provided by engineer. */
+"cancel" = "cancel";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cancel Auto-Pay" = "Cancel Auto-Pay";
+
+/* No comment provided by engineer. */
+"Cancel Request " = "Cancel Request ";
+
+/* No comment provided by engineer. */
+"cannot.complete.request" = "cannot.complete.request";
+
+/* No comment provided by engineer. */
+"cannot.update.document" = "cannot.update.document";
+
+/* No comment provided by engineer. */
+"Card ending with" = "Card ending with";
+
+/* No comment provided by engineer. */
+"Card ending with %@" = "Card ending with %@";
+
+/* No comment provided by engineer. */
+"Change" = "Change";
+
+/* No comment provided by engineer. */
+"chat.availability" = "chat.availability";
+
+/* No comment provided by engineer. */
+"click.photo" = "click.photo";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* No comment provided by engineer. */
+"comments.optional" = "comments.optional";
+
+/* No comment provided by engineer. */
+"communities.booking.cancelled" = "communities.booking.cancelled";
+
+/* No comment provided by engineer. */
+"communities.booking.empty" = "communities.booking.empty";
+
+/* No comment provided by engineer. */
+"communities.booking.noprevious" = "communities.booking.noprevious";
+
+/* No comment provided by engineer. */
+"communities.booking.noupcoming" = "communities.booking.noupcoming";
+
+/* No comment provided by engineer. */
+"communities.booking.previous" = "communities.booking.previous";
+
+/* No comment provided by engineer. */
+"communities.booking.upcoming" = "communities.booking.upcoming";
+
+/* No comment provided by engineer. */
+"complete.list.upcoming.eventsCommunity" = "complete.list.upcoming.eventsCommunity";
+
+/* No comment provided by engineer. */
+"configure.faceid" = "configure.faceid";
+
+/* No comment provided by engineer. */
+"configure.touchid" = "configure.touchid";
+
+/* No comment provided by engineer. */
+"Confirm" = "Confirm";
+
+/* No comment provided by engineer. */
+"confirm.received.email.purchaseProperty" = "confirm.received.email.purchaseProperty";
+
+/* No comment provided by engineer. */
+"Confirmation" = "Confirmation";
+
+/* No comment provided by engineer. */
+"Connecting" = "Connecting";
+
+/* No comment provided by engineer. */
+"Construction" = "Construction";
+
+/* No comment provided by engineer. */
+"Construction Completed" = "Construction Completed";
+
+/* No comment provided by engineer. */
+"Construction In - Progress for Community" = "Construction In - Progress for Community";
+
+/* No comment provided by engineer. */
+"Contact Number" = "Contact Number";
+
+/* No comment provided by engineer. */
+"Contact Us" = "Contact Us";
+
+/* No comment provided by engineer. */
+"continue" = "continue";
+
+/* No comment provided by engineer. */
+"Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"continue.myDocuments" = "continue.myDocuments";
+
+/* No comment provided by engineer. */
+"Core Data storage not initialized." = "Core Data storage not initialized.";
+
+/* No comment provided by engineer. */
+"Correct Pin" = "Correct Pin";
+
+/* No comment provided by engineer. */
+"create.case.failed" = "create.case.failed";
+
+/* No comment provided by engineer. */
+"create.sr.help" = "create.sr.help";
+
+/* No comment provided by engineer. */
+"creating.file.request" = "creating.file.request";
+
+/* No comment provided by engineer. */
+"creating.serviceRequest" = "creating.serviceRequest";
+
+/* No comment provided by engineer. */
+"Current password and new password should not be same." = "Current password and new password should not be same.";
+
+/* No comment provided by engineer. */
+"data.unavailable.relationshipManager" = "data.unavailable.relationshipManager";
+
+/* No comment provided by engineer. */
+"Delete" = "Delete";
+
+/* No comment provided by engineer. */
+"delete" = "delete";
+
+/* No comment provided by engineer. */
+"Deleting attachment" = "Deleting attachment";
+
+/* No comment provided by engineer. */
+"Deleting Document..." = "Deleting Document...";
+
+/* No comment provided by engineer. */
+"deleting.document" = "deleting.document";
+
+/* No comment provided by engineer. */
+"Delivery Address" = "Delivery Address";
+
+/* No comment provided by engineer. */
+"dependent.attachment.alert" = "dependent.attachment.alert";
+
+/* No comment provided by engineer. */
+"dependent.value.alert" = "dependent.value.alert";
+
+/* No comment provided by engineer. */
+"details" = "details";
+
+/* No comment provided by engineer. */
+"Details" = "Details";
+
+/* No comment provided by engineer. */
+"DEWA Registration" = "DEWA Registration";
+
+/* No comment provided by engineer. */
+"Do you want to go ahead with single picture/file?" = "Do you want to go ahead with single picture/file?";
+
+/* No comment provided by engineer. */
+"do.dont.livingCommunity" = "do.dont.livingCommunity";
+
+/* No comment provided by engineer. */
+"Document is not available." = "Document is not available.";
+
+/* No comment provided by engineer. */
+"Document is not available. Would you like to upload document." = "Document is not available. Would you like to upload document.";
+
+/* No comment provided by engineer. */
+"document left to upload" = "document left to upload";
+
+/* No comment provided by engineer. */
+"Document uploading" = "Document uploading";
+
+/* No comment provided by engineer. */
+"document.noc.mandatory" = "document.noc.mandatory";
+
+/* No comment provided by engineer. */
+"document.update.failed" = "document.update.failed";
+
+/* No comment provided by engineer. */
+"document.update.success" = "document.update.success";
+
+/* No comment provided by engineer. */
+"document.upload.newApproval" = "document.upload.newApproval";
+
+/* No comment provided by engineer. */
+"documents" = "documents";
+
+/* No comment provided by engineer. */
+"documents left to upload" = "documents left to upload";
+
+/* No comment provided by engineer. */
+"DONE" = "DONE";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"done" = "done";
+
+/* No comment provided by engineer. */
+"Duplicate Contact" = "Duplicate Contact";
+
+/* No comment provided by engineer. */
+"Duration" = "Duration";
+
+/* No comment provided by engineer. */
+"EDIT" = "EDIT";
+
+/* No comment provided by engineer. */
+"Edit" = "Edit";
+
+/* No comment provided by engineer. */
+"Edit Address" = "Edit Address";
+
+/* No comment provided by engineer. */
+"Edit Card Details" = "Edit Card Details";
+
+/* No comment provided by engineer. */
+"Edit Transactions" = "Edit Transactions";
+
+/* No comment provided by engineer. */
+"email" = "email";
+
+/* No comment provided by engineer. */
+"Email Address" = "Email Address";
+
+/* No comment provided by engineer. */
+"Email Installment Transactions" = "Email Installment Transactions";
+
+/* No comment provided by engineer. */
+"Email sent successfully!" = "Email sent successfully!";
+
+/* No comment provided by engineer. */
+"Email Service Fee Transactions" = "Email Service Fee Transactions";
+
+/* No comment provided by engineer. */
+"Email Statement of Account" = "Email Statement of Account";
+
+/* No comment provided by engineer. */
+"Email update failed" = "Email update failed";
+
+/* No comment provided by engineer. */
+"Email update failed." = "Email update failed.";
+
+/* No comment provided by engineer. */
+"Email updated successfully" = "Email updated successfully";
+
+/* No comment provided by engineer. */
+"Emirates ID update failed." = "Emirates ID update failed.";
+
+/* No comment provided by engineer. */
+"empty.open.serviceRequests" = "empty.open.serviceRequests";
+
+/* No comment provided by engineer. */
+"empty.serviceRequests" = "empty.serviceRequests";
+
+/* No comment provided by engineer. */
+"Enabling Face ID will let you sign and check-out faster than ever" = "Enabling Face ID will let you sign and check-out faster than ever";
+
+/* No comment provided by engineer. */
+"Enabling Touch ID will let you sign and check-out faster than ever" = "Enabling Touch ID will let you sign and check-out faster than ever";
+
+/* No comment provided by engineer. */
+"Enter " = "Enter ";
+
+/* No comment provided by engineer. */
+"Enter \nEmirates ID Details" = "Enter \nEmirates ID Details";
+
+/* No comment provided by engineer. */
+"Enter \nPassport Details" = "Enter \nPassport Details";
+
+/* No comment provided by engineer. */
+"Enter \nTrade License\n Details" = "Enter \nTrade License\n Details";
+
+/* No comment provided by engineer. */
+"Enter \nVISA Details" = "Enter \nVISA Details";
+
+/* No comment provided by engineer. */
+"Enter the OTP sent to the number ending with" = "Enter the OTP sent to the number ending with";
+
+/* No comment provided by engineer. */
+"Enter the OTP sent to your email address" = "Enter the OTP sent to your email address";
+
+/* No comment provided by engineer. */
+"enter.otp" = "enter.otp";
+
+/* No comment provided by engineer. */
+"enter.otp.to.email" = "enter.otp.to.email";
+
+/* No comment provided by engineer. */
+"enter.otp.to.number" = "enter.otp.to.number";
+
+/* No comment provided by engineer. */
+"error" = "error";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"error.invalid.email" = "error.invalid.email";
+
+/* No comment provided by engineer. */
+"error.load.noc.template" = "error.load.noc.template";
+
+/* No comment provided by engineer. */
+"error.loading.image" = "error.loading.image";
+
+/* No comment provided by engineer. */
+"error.something.tryAgain" = "error.something.tryAgain";
+
+/* No comment provided by engineer. */
+"error.upload.noc.template" = "error.upload.noc.template";
+
+/* No comment provided by engineer. */
+"ETA" = "ETA";
+
+/* No comment provided by engineer. */
+"events" = "events";
+
+/* No comment provided by engineer. */
+"expected.verificationBy" = "expected.verificationBy";
+
+/* No comment provided by engineer. */
+"Face ID" = "Face ID";
+
+/* No comment provided by engineer. */
+"face.id" = "face.id";
+
+/* No comment provided by engineer. */
+"Failed" = "Failed";
+
+/* No comment provided by engineer. */
+"failed" = "failed";
+
+/* No comment provided by engineer. */
+"failed.authentication.signInTryAgain" = "failed.authentication.signInTryAgain";
+
+/* No comment provided by engineer. */
+"failed.enable.fastSignIn.homeTryAgain" = "failed.enable.fastSignIn.homeTryAgain";
+
+/* No comment provided by engineer. */
+"Failure" = "Failure";
+
+/* No comment provided by engineer. */
+"failure" = "failure";
+
+/* No comment provided by engineer. */
+"feedback" = "feedback";
+
+/* No comment provided by engineer. */
+"Feedback submission failed." = "Feedback submission failed.";
+
+/* No comment provided by engineer. */
+"Feedback submitted successfully. Your reference number is " = "Feedback submitted successfully. Your reference number is ";
+
+/* No comment provided by engineer. */
+"feedback.saved" = "feedback.saved";
+
+/* No comment provided by engineer. */
+"fetch.service.request.fail" = "fetch.service.request.fail";
+
+/* No comment provided by engineer. */
+"fetching.documents" = "fetching.documents";
+
+/* No comment provided by engineer. */
+"fetching.file" = "fetching.file";
+
+/* No comment provided by engineer. */
+"fetching.notifications" = "fetching.notifications";
+
+/* No comment provided by engineer. */
+"file.permissible.limit.reached" = "file.permissible.limit.reached";
+
+/* No comment provided by engineer. */
+"file.unsupported.format.allowedFormats" = "file.unsupported.format.allowedFormats";
+
+/* No comment provided by engineer. */
+"filenet.error.response" = "filenet.error.response";
+
+/* No comment provided by engineer. */
+"Files" = "Files";
+
+/* No comment provided by engineer. */
+"Filter by" = "Filter by";
+
+/* No comment provided by engineer. */
+"Filter Invoices" = "Filter Invoices";
+
+/* No comment provided by engineer. */
+"Floor " = "Floor ";
+
+/* No comment provided by engineer. */
+"For card verification AED 1 will be charged and then reversed.\nThe total amount will be deducted 3 hours before the scheduled appointment time." = "For card verification AED 1 will be charged and then reversed.\nThe total amount will be deducted 3 hours before the scheduled appointment time.";
+
+/* No comment provided by engineer. */
+"forgot.username.title" = "forgot.username.title";
+
+/* No comment provided by engineer. */
+"generating.otp" = "generating.otp";
+
+/* No comment provided by engineer. */
+"getting.categories" = "getting.categories";
+
+/* No comment provided by engineer. */
+"getting.questions" = "getting.questions";
+
+/* No comment provided by engineer. */
+"getting.subcategories" = "getting.subcategories";
+
+/* No comment provided by engineer. */
+"handed.over" = "handed.over";
+
+/* No comment provided by engineer. */
+"handover.dewa.errorMessage" = "handover.dewa.errorMessage";
+
+/* No comment provided by engineer. */
+"handover.dewa.validation" = "handover.dewa.validation";
+
+/* No comment provided by engineer. */
+"handover.dewaContinue.title" = "handover.dewaContinue.title";
+
+/* No comment provided by engineer. */
+"handover.ehg.errorMessage" = "handover.ehg.errorMessage";
+
+/* No comment provided by engineer. */
+"handover.incompleted.errorMessage" = "handover.incompleted.errorMessage";
+
+/* No comment provided by engineer. */
+"handover.migration.errorMessage" = "handover.migration.errorMessage";
+
+/* No comment provided by engineer. */
+"handover.registration.viewRegistrations" = "handover.registration.viewRegistrations";
+
+/* No comment provided by engineer. */
+"handover.snag.title" = "handover.snag.title";
+
+/* No comment provided by engineer. */
+"help" = "help";
+
+/* No comment provided by engineer. */
+"home" = "home";
+
+/* No comment provided by engineer. */
+"Home" = "Home";
+
+/* No comment provided by engineer. */
+"Home Services" = "Home Services";
+
+/* No comment provided by engineer. */
+"home.service.listing.header" = "home.service.listing.header";
+
+/* No comment provided by engineer. */
+"home.service.listing.title" = "home.service.listing.title";
+
+/* No comment provided by engineer. */
+"How it works?" = "How it works?";
+
+/* No comment provided by engineer. */
+"How would you like to upload your Visa?" = "How would you like to upload your Visa?";
+
+/* No comment provided by engineer. */
+"hud.loading" = "hud.loading";
+
+/* No comment provided by engineer. */
+"IDENTIFICATION DOCUMENTS" = "IDENTIFICATION DOCUMENTS";
+
+/* No comment provided by engineer. */
+"If you are a holiday home operator:" = "If you are a holiday home operator:";
+
+/* No comment provided by engineer. */
+"If you are a homeowner, your primary email address is your username" = "If you are a homeowner, your primary email address is your username";
+
+/* No comment provided by engineer. */
+"If you are a tenant:" = "If you are a tenant:";
+
+/* No comment provided by engineer. */
+"If you are an agent:" = "If you are an agent:";
+
+/* No comment provided by engineer. */
+"Image Couldnt be downloaded" = "Image Couldnt be downloaded";
+
+/* No comment provided by engineer. */
+"In Progress" = "In Progress";
+
+/* No comment provided by engineer. */
+"Including VAT" = "Including VAT";
+
+/* No comment provided by engineer. */
+"Individual" = "Individual";
+
+/* No comment provided by engineer. */
+"info.title" = "info.title";
+
+/* No comment provided by engineer. */
+"inform.comment.record.attach.serviceRequest" = "inform.comment.record.attach.serviceRequest";
+
+/* No comment provided by engineer. */
+"Information" = "Information";
+
+/* No comment provided by engineer. */
+"Information updated successfully." = "Information updated successfully.";
+
+/* No comment provided by engineer. */
+"Internal error occured" = "Internal error occured";
+
+/* No comment provided by engineer. */
+"Invalid email" = "Invalid email";
+
+/* No comment provided by engineer. */
+"Invalid email or password" = "Invalid email or password";
+
+/* No comment provided by engineer. */
+"Invalid Phone Number" = "Invalid Phone Number";
+
+/* No comment provided by engineer. */
+"Invalid response received." = "Invalid response received.";
+
+/* No comment provided by engineer. */
+"Invalid url : " = "Invalid url : ";
+
+/* No comment provided by engineer. */
+"invalid.categorySubCategory" = "invalid.categorySubCategory";
+
+/* No comment provided by engineer. */
+"invalid.countrycode" = "invalid.countrycode";
+
+/* No comment provided by engineer. */
+"invalid.document.message" = "invalid.document.message";
+
+/* No comment provided by engineer. */
+"invalid.location" = "invalid.location";
+
+/* No comment provided by engineer. */
+"invalid.number" = "invalid.number";
+
+/* No comment provided by engineer. */
+"invalid.otp" = "invalid.otp";
+
+/* No comment provided by engineer. */
+"invalid.property" = "invalid.property";
+
+/* No comment provided by engineer. */
+"invalid.request" = "invalid.request";
+
+/* No comment provided by engineer. */
+"invalid.upload.response" = "invalid.upload.response";
+
+/* No comment provided by engineer. */
+"issue.authenticating.credentials" = "issue.authenticating.credentials";
+
+/* No comment provided by engineer. */
+"issue.completingRequest" = "issue.completingRequest";
+
+/* No comment provided by engineer. */
+"issue.connection.tryAgain" = "issue.connection.tryAgain";
+
+/* No comment provided by engineer. */
+"issue.cropImage" = "issue.cropImage";
+
+/* No comment provided by engineer. */
+"issue.deleteDocument" = "issue.deleteDocument";
+
+/* No comment provided by engineer. */
+"issue.fetching.rulesRegulations" = "issue.fetching.rulesRegulations";
+
+/* No comment provided by engineer. */
+"issue.fetching.serviceRequest" = "issue.fetching.serviceRequest";
+
+/* No comment provided by engineer. */
+"issue.file.upload.tryAgain" = "issue.file.upload.tryAgain";
+
+/* No comment provided by engineer. */
+"issue.image.data.tryAgain" = "issue.image.data.tryAgain";
+
+/* No comment provided by engineer. */
+"issue.login" = "issue.login";
+
+/* No comment provided by engineer. */
+"issue.process.requestNow.tryAgain" = "issue.process.requestNow.tryAgain";
+
+/* No comment provided by engineer. */
+"issue.processing.serviceRequest" = "issue.processing.serviceRequest";
+
+/* No comment provided by engineer. */
+"issue.raise.request" = "issue.raise.request";
+
+/* No comment provided by engineer. */
+"issue.scheduling.meeting" = "issue.scheduling.meeting";
+
+/* No comment provided by engineer. */
+"issue.signInTryAgain" = "issue.signInTryAgain";
+
+/* No comment provided by engineer. */
+"issue.somethingWrong.tryLater" = "issue.somethingWrong.tryLater";
+
+/* No comment provided by engineer. */
+"issue.submit.request" = "issue.submit.request";
+
+/* No comment provided by engineer. */
+"issue.verifying.phoneNumber" = "issue.verifying.phoneNumber";
+
+/* No comment provided by engineer. */
+"jailbroken.error" = "jailbroken.error";
+
+/* No comment provided by engineer. */
+"Just %@ %@ left to complete your profile." = "Just %1$@ %2$@ left to complete your profile.";
+
+/* No comment provided by engineer. */
+"Kindly ensure that you upload all pages of the company's Tourism License" = "Kindly ensure that you upload all pages of the company's Tourism License";
+
+/* No comment provided by engineer. */
+"Kindly ensure that you upload all pages of the Dubai Tourism Unit Permit" = "Kindly ensure that you upload all pages of the Dubai Tourism Unit Permit";
+
+/* No comment provided by engineer. */
+"Kindly ensure that you upload all pages of the Ejari" = "Kindly ensure that you upload all pages of the Ejari";
+
+/* No comment provided by engineer. */
+"Kindly ensure that you upload Emirates ID (both sides) or passport with visa of the company representative." = "Kindly ensure that you upload Emirates ID (both sides) or passport with visa of the company representative.";
+
+/* No comment provided by engineer. */
+"Kindly ensure that you upload Emirates ID (both sides) or passport with visa." = "Kindly ensure that you upload Emirates ID (both sides) or passport with visa.";
+
+/* No comment provided by engineer. */
+"Late Payment Fee" = "Late Payment Fee";
+
+/* No comment provided by engineer. */
+"Late payment fee is 12% of the overdue amount. It gets added only if you have not paid within the due date. If overdue amount is AED 10,000 then late payment fee is AED 1,200." = "Late payment fee is 12% of the overdue amount. It gets added only if you have not paid within the due date. If overdue amount is AED 10,000 then late payment fee is AED 1,200.";
+
+/* No comment provided by engineer. */
+"latest.launches" = "latest.launches";
+
+/* No comment provided by engineer. */
+"latest.launches.offers.title" = "latest.launches.offers.title";
+
+/* No comment provided by engineer. */
+"list.amenities.validation" = "list.amenities.validation";
+
+/* No comment provided by engineer. */
+"Live Tracking" = "Live Tracking";
+
+/* No comment provided by engineer. */
+"loading" = "loading";
+
+/* No comment provided by engineer. */
+"Loading" = "Loading";
+
+/* No comment provided by engineer. */
+"Loading Authority List" = "Loading Authority List";
+
+/* No comment provided by engineer. */
+"Loading Bank List" = "Loading Bank List";
+
+/* No comment provided by engineer. */
+"Loading Title List" = "Loading Title List";
+
+/* No comment provided by engineer. */
+"loading..." = "loading...";
+
+/* No comment provided by engineer. */
+"login.to.account" = "login.to.account";
+
+/* No comment provided by engineer. */
+"login.your.account" = "login.your.account";
+
+/* No comment provided by engineer. */
+"mail.alert" = "mail.alert";
+
+/* No comment provided by engineer. */
+"meeting" = "meeting";
+
+/* No comment provided by engineer. */
+"Meeting scheduled successfully!" = "Meeting scheduled successfully!";
+
+/* No comment provided by engineer. */
+"messages" = "messages";
+
+/* No comment provided by engineer. */
+"Minimum AED" = "Minimum AED";
+
+/* No comment provided by engineer. */
+"Mobile Number" = "Mobile Number";
+
+/* No comment provided by engineer. */
+"Mobile number updated successfully" = "Mobile number updated successfully";
+
+/* No comment provided by engineer. */
+"Mobile update failed" = "Mobile update failed";
+
+/* No comment provided by engineer. */
+"Move in" = "Move in";
+
+/* No comment provided by engineer. */
+"Move-In Guide" = "Move-In Guide";
+
+/* No comment provided by engineer. */
+"Move-Out Permit" = "Move-Out Permit";
+
+/* No comment provided by engineer. */
+"movein.accessCard.agentCall" = "movein.accessCard.agentCall";
+
+/* No comment provided by engineer. */
+"movein.agent.title" = "movein.agent.title";
+
+/* No comment provided by engineer. */
+"movein.hho.title" = "movein.hho.title";
+
+/* No comment provided by engineer. */
+"movein.planning.title" = "movein.planning.title";
+
+/* No comment provided by engineer. */
+"movein.snag.recorded" = "movein.snag.recorded";
+
+/* No comment provided by engineer. */
+"movein.snag.resolved" = "movein.snag.resolved";
+
+/* No comment provided by engineer. */
+"movein.tenant.submitted" = "movein.tenant.submitted";
+
+/* No comment provided by engineer. */
+"movein.tenant.title" = "movein.tenant.title";
+
+/* No comment provided by engineer. */
+"movein.tenant.updated" = "movein.tenant.updated";
+
+/* No comment provided by engineer. */
+"movein.title" = "movein.title";
+
+/* No comment provided by engineer. */
+"moveout.submitted" = "moveout.submitted";
+
+/* No comment provided by engineer. */
+"moveout.title" = "moveout.title";
+
+/* No comment provided by engineer. */
+"Mr." = "Mr.";
+
+/* No comment provided by engineer. */
+"Ms." = "Ms.";
+
+/* No comment provided by engineer. */
+"Multiple Admin Fees" = "Multiple Admin Fees";
+
+/* No comment provided by engineer. */
+"Multiple Installments" = "Multiple Installments";
+
+/* No comment provided by engineer. */
+"Multiple Service Fees" = "Multiple Service Fees";
+
+/* No comment provided by engineer. */
+"my.documents.title" = "my.documents.title";
+
+/* No comment provided by engineer. */
+"mycommunities.amenities.title" = "mycommunities.amenities.title";
+
+/* No comment provided by engineer. */
+"mycommunities.amenity.terms" = "mycommunities.amenity.terms";
+
+/* No comment provided by engineer. */
+"mycommunities.cancel.title" = "mycommunities.cancel.title";
+
+/* No comment provided by engineer. */
+"mycommunities.eventDetails.title" = "mycommunities.eventDetails.title";
+
+/* No comment provided by engineer. */
+"mycommunities.events.title" = "mycommunities.events.title";
+
+/* No comment provided by engineer. */
+"mycommunities.selectAmenity.title" = "mycommunities.selectAmenity.title";
+
+/* No comment provided by engineer. */
+"N/A" = "N/A";
+
+/* No comment provided by engineer. */
+"NA" = "NA";
+
+/* No comment provided by engineer. */
+"name" = "name";
+
+/* No comment provided by engineer. */
+"name.relationshipManager" = "name.relationshipManager";
+
+/* No comment provided by engineer. */
+"new.messages" = "new.messages";
+
+/* No comment provided by engineer. */
+"new.service.request" = "new.service.request";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No amount will be charged." = "No amount will be charged.";
+
+/* No comment provided by engineer. */
+"No documents found for this property!" = "No documents found for this property!";
+
+/* No comment provided by engineer. */
+"No invoices are found for this property." = "No invoices are found for this property.";
+
+/* No comment provided by engineer. */
+"No time slots available." = "No time slots available.";
+
+/* No comment provided by engineer. */
+"no.customer.account.for.document" = "no.customer.account.for.document";
+
+/* No comment provided by engineer. */
+"no.floor.plan" = "no.floor.plan";
+
+/* No comment provided by engineer. */
+"no.new.messages" = "no.new.messages";
+
+/* No comment provided by engineer. */
+"no.specified.date" = "no.specified.date";
+
+/* No comment provided by engineer. */
+"no.specified.purpose" = "no.specified.purpose";
+
+/* No comment provided by engineer. */
+"no.sufficient.info.workingOnFix" = "no.sufficient.info.workingOnFix";
+
+/* No comment provided by engineer. */
+"noc.payment.cancelled" = "noc.payment.cancelled";
+
+/* No comment provided by engineer. */
+"noc.payment.declined" = "noc.payment.declined";
+
+/* No comment provided by engineer. */
+"noc.payment.failed" = "noc.payment.failed";
+
+/* No comment provided by engineer. */
+"noc.success" = "noc.success";
+
+/* No comment provided by engineer. */
+"Not able to create your service booking. Please try again later." = "Not able to create your service booking. Please try again later.";
+
+/* No comment provided by engineer. */
+"Note: It should be fully attested by UAE Foreign affair." = "Note: It should be fully attested by UAE Foreign affair.";
+
+/* No comment provided by engineer. */
+"Note: Not older than 3 months and should be fully attested by UAE Foreign affair." = "Note: Not older than 3 months and should be fully attested by UAE Foreign affair.";
+
+/* No comment provided by engineer. */
+"Note: Not older than 3 months." = "Note: Not older than 3 months.";
+
+/* No comment provided by engineer. */
+"Note: Please note that amount of AED %@ will be deducted from your authorized card." = "Note: Please note that amount of AED %@ will be deducted from your authorized card.";
+
+/* No comment provided by engineer. */
+"Note: These services are currently offered for selected communities only." = "Note: These services are currently offered for selected communities only.";
+
+/* No comment provided by engineer. */
+"Number of Hours" = "Number of Hours";
+
+/* No comment provided by engineer. */
+"Number of Units" = "Number of Units";
+
+/* No comment provided by engineer. */
+"number.unavailable.relationshipManager" = "number.unavailable.relationshipManager";
+
+/* No comment provided by engineer. */
+"offers" = "offers";
+
+/* No comment provided by engineer. */
+"ok" = "ok";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Once you start receiving notifications, they will appear here!" = "Once you start receiving notifications, they will appear here!";
+
+/* No comment provided by engineer. */
+"one.docUpload.pending" = "one.docUpload.pending";
+
+/* No comment provided by engineer. */
+"Oops!" = "Oops!";
+
+/* No comment provided by engineer. */
+"Organization" = "Organization";
+
+/* No comment provided by engineer. */
+"Overdue" = "Overdue";
+
+/* No comment provided by engineer. */
+"Owner" = "Owner";
+
+/* No comment provided by engineer. */
+"Passport update failed." = "Passport update failed.";
+
+/* No comment provided by engineer. */
+"Passport, Emirates ID and Visa" = "Passport, Emirates ID and Visa";
+
+/* No comment provided by engineer. */
+"Password and confirm password should be same." = "Password and confirm password should be same.";
+
+/* No comment provided by engineer. */
+"Password should have 8-15 characters. Only letters, numbers and special characters ($, @, #, !, *) allowed." = "Password should have 8-15 characters. Only letters, numbers and special characters ($, @, #, !, *) allowed.";
+
+/* No comment provided by engineer. */
+"Password update failed" = "Password update failed";
+
+/* No comment provided by engineer. */
+"Password update result unknown" = "Password update result unknown";
+
+/* No comment provided by engineer. */
+"Password updated successfully" = "Password updated successfully";
+
+/* No comment provided by engineer. */
+"past.payments" = "past.payments";
+
+/* No comment provided by engineer. */
+"PAY AED" = "PAY AED";
+
+/* No comment provided by engineer. */
+"Pay Now" = "Pay Now";
+
+/* No comment provided by engineer. */
+"Payment" = "Payment";
+
+/* No comment provided by engineer. */
+"Payment cancelled!" = "Payment cancelled!";
+
+/* No comment provided by engineer. */
+"Payment Failed" = "Payment Failed";
+
+/* No comment provided by engineer. */
+"Payment Successful!" = "Payment Successful!";
+
+/* No comment provided by engineer. */
+"PAYMENT TYPE" = "PAYMENT TYPE";
+
+/* No comment provided by engineer. */
+"Payments" = "Payments";
+
+/* No comment provided by engineer. */
+"payments" = "payments";
+
+/* No comment provided by engineer. */
+"Pending Payments" = "Pending Payments";
+
+/* No comment provided by engineer. */
+"pending.payments" = "pending.payments";
+
+/* No comment provided by engineer. */
+"PERSONAL INFORMATION" = "PERSONAL INFORMATION";
+
+/* No comment provided by engineer. */
+"PERSONAL INFORMATION " = "PERSONAL INFORMATION ";
+
+/* No comment provided by engineer. */
+"PERSONAL INFORMATION PERSONAL INFORMATION PERSONAL INFORMATION PERSONAL INFORMATION" = "PERSONAL INFORMATION PERSONAL INFORMATION PERSONAL INFORMATION PERSONAL INFORMATION";
+
+/* No comment provided by engineer. */
+"PERSONAL INFORMATION PERSONAL INFORMATIONPERSONAL INFORMATION PERSONAL INFORMATION PERSONAL INFORMATION" = "PERSONAL INFORMATION PERSONAL INFORMATIONPERSONAL INFORMATION PERSONAL INFORMATION PERSONAL INFORMATION";
+
+/* No comment provided by engineer. */
+"Phone Number" = "Phone Number";
+
+/* No comment provided by engineer. */
+"Phone number type is unknown." = "Phone number type is unknown.";
+
+/* No comment provided by engineer. */
+"Phone number updated successfully" = "Phone number updated successfully";
+
+/* No comment provided by engineer. */
+"Phone update failed" = "Phone update failed";
+
+/* No comment provided by engineer. */
+"Phone update failed." = "Phone update failed.";
+
+/* No comment provided by engineer. */
+"Photos" = "Photos";
+
+/* The value of a property which is missing */
+"PlaceDetails.MissingValue" = "PlaceDetails.MissingValue";
+
+/* Closed/Open state for a closed location */
+"Places.OpenNow.No" = "Places.OpenNow.No";
+
+/* Closed/Open state for when it is unknown */
+"Places.OpenNow.Unknown" = "Places.OpenNow.Unknown";
+
+/* Closed/Open state for an open location */
+"Places.OpenNow.Yes" = "Places.OpenNow.Yes";
+
+/* Relative cost for a cheap location */
+"Places.PriceLevel.Cheap" = "Places.PriceLevel.Cheap";
+
+/* Relative cost for an expensive location */
+"Places.PriceLevel.Expensive" = "Places.PriceLevel.Expensive";
+
+/* Relative cost for a free location */
+"Places.PriceLevel.Free" = "Places.PriceLevel.Free";
+
+/* Relative cost for a high cost location */
+"Places.PriceLevel.High" = "Places.PriceLevel.High";
+
+/* Relative cost for a medium cost location */
+"Places.PriceLevel.Medium" = "Places.PriceLevel.Medium";
+
+/* Relative cost for when it is unknown */
+"Places.PriceLevel.Unknown" = "Places.PriceLevel.Unknown";
+
+/* Name for the Attributions property */
+"Places.Property.Attributions" = "Places.Property.Attributions";
+
+/* Name for the Coordinate property */
+"Places.Property.Coordinate" = "Places.Property.Coordinate";
+
+/* The format string for latitude, longitude */
+"Places.Property.Coordinate.Format" = "Places.Property.Coordinate.Format";
+
+/* Name for the Formatted address property */
+"Places.Property.FormattedAddress" = "Places.Property.FormattedAddress";
+
+/* Name for the Open now status property */
+"Places.Property.OpenNowStatus" = "Places.Property.OpenNowStatus";
+
+/* Name for the Phone number property */
+"Places.Property.PhoneNumber" = "Places.Property.PhoneNumber";
+
+/* Name for the Place ID property */
+"Places.Property.PlaceID" = "Places.Property.PlaceID";
+
+/* Name for the Price level property */
+"Places.Property.PriceLevel" = "Places.Property.PriceLevel";
+
+/* Name for the Rating property */
+"Places.Property.Rating" = "Places.Property.Rating";
+
+/* Name for the Types property */
+"Places.Property.Types" = "Places.Property.Types";
+
+/* Name for the Website property */
+"Places.Property.Website" = "Places.Property.Website";
+
+/* No comment provided by engineer. */
+"Please connect to internet" = "Please connect to internet";
+
+/* No comment provided by engineer. */
+"Please enter a valid Phone Number and proceed." = "Please enter a valid Phone Number and proceed.";
+
+/* No comment provided by engineer. */
+"Please provide a valid" = "Please provide a valid";
+
+/* No comment provided by engineer. */
+"Please provide amount for payment." = "Please provide amount for payment.";
+
+/* No comment provided by engineer. */
+"Please provide attachment information." = "Please provide attachment information.";
+
+/* No comment provided by engineer. */
+"Please provide attachments." = "Please provide attachments.";
+
+/* No comment provided by engineer. */
+"Please provide correct current password." = "Please provide correct current password.";
+
+/* No comment provided by engineer. */
+"Please provide minimum amount to pay" = "Please provide minimum amount to pay";
+
+/* No comment provided by engineer. */
+"Please provide required information." = "Please provide required information.";
+
+/* No comment provided by engineer. */
+"Please provide valid email." = "Please provide valid email.";
+
+/* No comment provided by engineer. */
+"Please provide valid Emirates ID Number." = "Please provide valid Emirates ID Number.";
+
+/* No comment provided by engineer. */
+"Please provide valid Passport Number." = "Please provide valid Passport Number.";
+
+/* No comment provided by engineer. */
+"Please provide valid password." = "Please provide valid password.";
+
+/* No comment provided by engineer. */
+"Please provide valid phone number." = "Please provide valid phone number.";
+
+/* No comment provided by engineer. */
+"Please provide your comments." = "Please provide your comments.";
+
+/* Home Service */
+"Please select a reason to cancel you booking." = "Please select a reason to cancel you booking.";
+
+/* No comment provided by engineer. */
+"Please select card type." = "Please select card type.";
+
+/* No comment provided by engineer. */
+"Please select photo source" = "Please select photo source";
+
+/* No comment provided by engineer. */
+"Please select start date to continue." = "Please select start date to continue.";
+
+/* No comment provided by engineer. */
+"Please select the account type." = "Please select the account type.";
+
+/* No comment provided by engineer. */
+"Please select the bank." = "Please select the bank.";
+
+/* No comment provided by engineer. */
+"Please select the card type to make the payment" = "Please select the card type to make the payment";
+
+/* No comment provided by engineer. */
+"Please update from app store to continue using the app." = "Please update from app store to continue using the app.";
+
+/* No comment provided by engineer. */
+"Pre-Production Version" = "Pre-Production Version";
+
+/* No comment provided by engineer. */
+"proceed.home" = "proceed.home";
+
+/* No comment provided by engineer. */
+"processing" = "processing";
+
+/* No comment provided by engineer. */
+"processing.document" = "processing.document";
+
+/* No comment provided by engineer. */
+"Profile Picture" = "Profile Picture";
+
+/* No comment provided by engineer. */
+"Properties" = "Properties";
+
+/* No comment provided by engineer. */
+"PROPERTIES" = "PROPERTIES";
+
+/* No comment provided by engineer. */
+"Property " = "Property ";
+
+/* No comment provided by engineer. */
+"Property Installments" = "Property Installments";
+
+/* No comment provided by engineer. */
+"property.customer.aleradymovedin" = "property.customer.aleradymovedin";
+
+/* No comment provided by engineer. */
+"property.customer.movedin" = "property.customer.movedin";
+
+/* No comment provided by engineer. */
+"property.doc.one.place" = "property.doc.one.place";
+
+/* No comment provided by engineer. */
+"property.issue.resolve.request" = "property.issue.resolve.request";
+
+/* No comment provided by engineer. */
+"property.milestones.unavailable" = "property.milestones.unavailable";
+
+/* No comment provided by engineer. */
+"property.notfound.oracle" = "property.notfound.oracle";
+
+/* No comment provided by engineer. */
+"property.related.title" = "property.related.title";
+
+/* No comment provided by engineer. */
+"Provide Basic Info" = "Provide Basic Info";
+
+/* No comment provided by engineer. */
+"Provide Basic info" = "Provide Basic info";
+
+/* No comment provided by engineer. */
+"purpose" = "purpose";
+
+/* No comment provided by engineer. */
+"question.clearFile" = "question.clearFile";
+
+/* No comment provided by engineer. */
+"question.clearPhoto" = "question.clearPhoto";
+
+/* No comment provided by engineer. */
+"question.clearPictures" = "question.clearPictures";
+
+/* No comment provided by engineer. */
+"raise.service.requests" = "raise.service.requests";
+
+/* No comment provided by engineer. */
+"raise.sr.title" = "raise.sr.title";
+
+/* No comment provided by engineer. */
+"rate.experience" = "rate.experience";
+
+/* No comment provided by engineer. */
+"rating.feedback" = "rating.feedback";
+
+/* No comment provided by engineer. */
+"rating.save.tryAgain" = "rating.save.tryAgain";
+
+/* No comment provided by engineer. */
+"rating.star" = "rating.star";
+
+/* No comment provided by engineer. */
+"rating.stars" = "rating.stars";
+
+/* No comment provided by engineer. */
+"rating.string" = "rating.string";
+
+/* No comment provided by engineer. */
+"record.all.service.requestsProperty" = "record.all.service.requestsProperty";
+
+/* No comment provided by engineer. */
+"record.limit.error" = "record.limit.error";
+
+/* No comment provided by engineer. */
+"record.limit.warning" = "record.limit.warning";
+
+/* No comment provided by engineer. */
+"Reference No" = "Reference No";
+
+/* No comment provided by engineer. */
+"register.buildings" = "register.buildings";
+
+/* No comment provided by engineer. */
+"register.choose.another" = "register.choose.another";
+
+/* No comment provided by engineer. */
+"register.companyLicense.mandatory" = "register.companyLicense.mandatory";
+
+/* No comment provided by engineer. */
+"register.delete.attachment" = "register.delete.attachment";
+
+/* No comment provided by engineer. */
+"register.done" = "register.done";
+
+/* No comment provided by engineer. */
+"register.ejari.mandatory" = "register.ejari.mandatory";
+
+/* No comment provided by engineer. */
+"register.hho.terms.desc" = "register.hho.terms.desc";
+
+/* No comment provided by engineer. */
+"register.hho.terms.mandatory" = "register.hho.terms.mandatory";
+
+/* No comment provided by engineer. */
+"register.next" = "register.next";
+
+/* No comment provided by engineer. */
+"register.photoId.mandatory" = "register.photoId.mandatory";
+
+/* No comment provided by engineer. */
+"register.select.building" = "register.select.building";
+
+/* No comment provided by engineer. */
+"register.select.street" = "register.select.street";
+
+/* No comment provided by engineer. */
+"register.select.unit" = "register.select.unit";
+
+/* No comment provided by engineer. */
+"register.select.villa" = "register.select.villa";
+
+/* No comment provided by engineer. */
+"register.street.name" = "register.street.name";
+
+/* No comment provided by engineer. */
+"register.tenant.rightbutton.title" = "register.tenant.rightbutton.title";
+
+/* No comment provided by engineer. */
+"register.tenant.submitted" = "register.tenant.submitted";
+
+/* No comment provided by engineer. */
+"register.tenant.title" = "register.tenant.title";
+
+/* No comment provided by engineer. */
+"register.tenant.updated" = "register.tenant.updated";
+
+/* No comment provided by engineer. */
+"register.title" = "register.title";
+
+/* No comment provided by engineer. */
+"register.unit" = "register.unit";
+
+/* No comment provided by engineer. */
+"register.unitPermit.mandatory" = "register.unitPermit.mandatory";
+
+/* No comment provided by engineer. */
+"register.update" = "register.update";
+
+/* No comment provided by engineer. */
+"register.validation.adults" = "register.validation.adults";
+
+/* No comment provided by engineer. */
+"register.validation.agentcompanyemail" = "register.validation.agentcompanyemail";
+
+/* No comment provided by engineer. */
+"register.validation.agentcompanyname" = "register.validation.agentcompanyname";
+
+/* No comment provided by engineer. */
+"register.validation.agentcountrycode" = "register.validation.agentcountrycode";
+
+/* No comment provided by engineer. */
+"register.validation.agentMobileEmpty" = "register.validation.agentMobileEmpty";
+
+/* No comment provided by engineer. */
+"register.validation.agentMobileInvalid" = "register.validation.agentMobileInvalid";
+
+/* No comment provided by engineer. */
+"register.validation.agentname" = "register.validation.agentname";
+
+/* No comment provided by engineer. */
+"register.validation.checkYesNoSpecialNeeds" = "register.validation.checkYesNoSpecialNeeds";
+
+/* No comment provided by engineer. */
+"register.validation.companyemail" = "register.validation.companyemail";
+
+/* No comment provided by engineer. */
+"register.validation.companyname" = "register.validation.companyname";
+
+/* No comment provided by engineer. */
+"register.validation.companyrepname" = "register.validation.companyrepname";
+
+/* No comment provided by engineer. */
+"register.validation.countrycode" = "register.validation.countrycode";
+
+/* No comment provided by engineer. */
+"register.validation.email" = "register.validation.email";
+
+/* No comment provided by engineer. */
+"register.validation.emiratesid" = "register.validation.emiratesid";
+
+/* No comment provided by engineer. */
+"register.validation.financeType" = "register.validation.financeType";
+
+/* No comment provided by engineer. */
+"register.validation.firstname" = "register.validation.firstname";
+
+/* No comment provided by engineer. */
+"register.validation.hhocountrycode" = "register.validation.hhocountrycode";
+
+/* No comment provided by engineer. */
+"register.validation.HHOlicenseNumber" = "register.validation.HHOlicenseNumber";
+
+/* No comment provided by engineer. */
+"register.validation.hhoMobileEmpty" = "register.validation.hhoMobileEmpty";
+
+/* No comment provided by engineer. */
+"register.validation.hhoMobileInvalid" = "register.validation.hhoMobileInvalid";
+
+/* No comment provided by engineer. */
+"register.validation.hhoMoveIn" = "register.validation.hhoMoveIn";
+
+/* No comment provided by engineer. */
+"register.validation.lastname" = "register.validation.lastname";
+
+/* No comment provided by engineer. */
+"register.validation.leaseEnd" = "register.validation.leaseEnd";
+
+/* No comment provided by engineer. */
+"register.validation.leaseStart" = "register.validation.leaseStart";
+
+/* No comment provided by engineer. */
+"register.validation.mobileEmpty" = "register.validation.mobileEmpty";
+
+/* No comment provided by engineer. */
+"register.validation.mobileInvalid" = "register.validation.mobileInvalid";
+
+/* No comment provided by engineer. */
+"register.validation.moveInEmpty" = "register.validation.moveInEmpty";
+
+/* No comment provided by engineer. */
+"register.validation.moveInLeaseEnd" = "register.validation.moveInLeaseEnd";
+
+/* No comment provided by engineer. */
+"register.validation.moveInTenancyEnd" = "register.validation.moveInTenancyEnd";
+
+/* No comment provided by engineer. */
+"register.validation.nationality" = "register.validation.nationality";
+
+/* No comment provided by engineer. */
+"register.validation.operatorCountrycode" = "register.validation.operatorCountrycode";
+
+/* No comment provided by engineer. */
+"register.validation.operatorLicenseExpiry" = "register.validation.operatorLicenseExpiry";
+
+/* No comment provided by engineer. */
+"register.validation.operatorOfficeNumEmpty" = "register.validation.operatorOfficeNumEmpty";
+
+/* No comment provided by engineer. */
+"register.validation.operatorOfficeNumInvalid" = "register.validation.operatorOfficeNumInvalid";
+
+/* No comment provided by engineer. */
+"register.validation.passportExpiry" = "register.validation.passportExpiry";
+
+/* No comment provided by engineer. */
+"register.validation.passportNumber" = "register.validation.passportNumber";
+
+/* No comment provided by engineer. */
+"register.validation.renewEmpty" = "register.validation.renewEmpty";
+
+/* No comment provided by engineer. */
+"register.validation.specialNeeds" = "register.validation.specialNeeds";
+
+/* No comment provided by engineer. */
+"register.validation.tenancyend" = "register.validation.tenancyend";
+
+/* No comment provided by engineer. */
+"register.validation.tenancystart" = "register.validation.tenancystart";
+
+/* No comment provided by engineer. */
+"register.villa" = "register.villa";
+
+/* No comment provided by engineer. */
+"register.your.interest" = "register.your.interest";
+
+/* No comment provided by engineer. */
+"Rejected" = "Rejected";
+
+/* No comment provided by engineer. */
+"Rejected On" = "Rejected On";
+
+/* No comment provided by engineer. */
+"Remove Photo" = "Remove Photo";
+
+/* No comment provided by engineer. */
+"renew.validation.email" = "renew.validation.email";
+
+/* No comment provided by engineer. */
+"renew.validation.mobileVerify" = "renew.validation.mobileVerify";
+
+/* No comment provided by engineer. */
+"renew.validation.tenantEmail" = "renew.validation.tenantEmail";
+
+/* No comment provided by engineer. */
+"renew.validation.tenantMobile" = "renew.validation.tenantMobile";
+
+/* No comment provided by engineer. */
+"renew.validation.tenantMobileCountry" = "renew.validation.tenantMobileCountry";
+
+/* No comment provided by engineer. */
+"renew.validation.tenantMobileEmpty" = "renew.validation.tenantMobileEmpty";
+
+/* No comment provided by engineer. */
+"renewal.ejari.title" = "renewal.ejari.title";
+
+/* No comment provided by engineer. */
+"renewal.submitted" = "renewal.submitted";
+
+/* No comment provided by engineer. */
+"renewal.title" = "renewal.title";
+
+/* No comment provided by engineer. */
+"Request submitted successfully" = "Request submitted successfully";
+
+/* No comment provided by engineer. */
+"Request submitted successfully!" = "Request submitted successfully!";
+
+/* No comment provided by engineer. */
+"Request updated successfully!" = "Request updated successfully!";
+
+/* No comment provided by engineer. */
+"request.details" = "request.details";
+
+/* No comment provided by engineer. */
+"request.received" = "request.received";
+
+/* No comment provided by engineer. */
+"request.review.message" = "request.review.message";
+
+/* No comment provided by engineer. */
+"request.something.went.wrong" = "request.something.went.wrong";
+
+/* No comment provided by engineer. */
+"request.under.process" = "request.under.process";
+
+/* No comment provided by engineer. */
+"request.under.review" = "request.under.review";
+
+/* No comment provided by engineer. */
+"retry" = "retry";
+
+/* No comment provided by engineer. */
+"retry.payment" = "retry.payment";
+
+/* No comment provided by engineer. */
+"reupload.document" = "reupload.document";
+
+/* No comment provided by engineer. */
+"Review All Information" = "Review All Information";
+
+/* No comment provided by engineer. */
+"Review Your Payment" = "Review Your Payment";
+
+/* No comment provided by engineer. */
+"Review Your Request" = "Review Your Request";
+
+/* No comment provided by engineer. */
+"rules.regulations" = "rules.regulations";
+
+/* No comment provided by engineer. */
+"saving" = "saving";
+
+/* No comment provided by engineer. */
+"scheduling" = "scheduling";
+
+/* No comment provided by engineer. */
+"search" = "search";
+
+/* No comment provided by engineer. */
+"Select" = "Select";
+
+/* No comment provided by engineer. */
+"Select Account Type" = "Select Account Type";
+
+/* No comment provided by engineer. */
+"Select Bank" = "Select Bank";
+
+/* No comment provided by engineer. */
+"Select Invoices" = "Select Invoices";
+
+/* No comment provided by engineer. */
+"Select this option to apply for the move in permit and receive sign in credentials." = "Select this option to apply for the move in permit and receive sign in credentials.";
+
+/* No comment provided by engineer. */
+"select.card.type" = "select.card.type";
+
+/* No comment provided by engineer. */
+"select.community.bookingAmenity" = "select.community.bookingAmenity";
+
+/* No comment provided by engineer. */
+"select.community.viewEvents" = "select.community.viewEvents";
+
+/* No comment provided by engineer. */
+"select.community.viewRulesRegulations" = "select.community.viewRulesRegulations";
+
+/* No comment provided by engineer. */
+"select.file" = "select.file";
+
+/* No comment provided by engineer. */
+"select.from.file" = "select.from.file";
+
+/* No comment provided by engineer. */
+"select.from.gallery" = "select.from.gallery";
+
+/* No comment provided by engineer. */
+"select.from.photos" = "select.from.photos";
+
+/* No comment provided by engineer. */
+"select.occupant.countryCode" = "select.occupant.countryCode";
+
+/* No comment provided by engineer. */
+"select.operator.countryCode" = "select.operator.countryCode";
+
+/* No comment provided by engineer. */
+"select.property.raiseRequest" = "select.property.raiseRequest";
+
+/* No comment provided by engineer. */
+"select.property.viewDocuments" = "select.property.viewDocuments";
+
+/* No comment provided by engineer. */
+"select.property.viewPastPayments" = "select.property.viewPastPayments";
+
+/* No comment provided by engineer. */
+"select.property.viewPayments" = "select.property.viewPayments";
+
+/* No comment provided by engineer. */
+"select.property.viewPendingPayments" = "select.property.viewPendingPayments";
+
+/* No comment provided by engineer. */
+"select.property.viewServiceRequest" = "select.property.viewServiceRequest";
+
+/* No comment provided by engineer. */
+"select.representative.countryCode" = "select.representative.countryCode";
+
+/* No comment provided by engineer. */
+"select.your.country" = "select.your.country";
+
+/* No comment provided by engineer. */
+"Selecting this option may result in a late payment fee added to your admin fees." = "Selecting this option may result in a late payment fee added to your admin fees.";
+
+/* No comment provided by engineer. */
+"Selecting this option may result in a late payment fee added to your service fees." = "Selecting this option may result in a late payment fee added to your service fees.";
+
+/* No comment provided by engineer. */
+"Sell/Transfer Property" = "Sell/Transfer Property";
+
+/* No comment provided by engineer. */
+"Send OTP" = "Send OTP";
+
+/* No comment provided by engineer. */
+"sending.mail" = "sending.mail";
+
+/* No comment provided by engineer. */
+"Service" = "Service";
+
+/* No comment provided by engineer. */
+"Service Fee Auto-Pay" = "Service Fee Auto-Pay";
+
+/* No comment provided by engineer. */
+"service.request.history" = "service.request.history";
+
+/* No comment provided by engineer. */
+"service.request.legalBlockForProperty" = "service.request.legalBlockForProperty";
+
+/* No comment provided by engineer. */
+"service.request.unavailableForProperty" = "service.request.unavailableForProperty";
+
+/* No comment provided by engineer. */
+"service.requests" = "service.requests";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Sign in" = "Sign in";
+
+/* No comment provided by engineer. */
+"signature.benefits" = "signature.benefits";
+
+/* No comment provided by engineer. */
+"Skip" = "Skip";
+
+/* No comment provided by engineer. */
+"Some unknown error" = "Some unknown error";
+
+/* No comment provided by engineer. */
+"Some unknown error occured." = "Some unknown error occured.";
+
+/* No comment provided by engineer. */
+"Some unknown error occurred." = "Some unknown error occurred.";
+
+/* No comment provided by engineer. */
+"Some unknown error." = "Some unknown error.";
+
+/* No comment provided by engineer. */
+"Something went wrong while trying to delete this document" = "Something went wrong while trying to delete this document";
+
+/* No comment provided by engineer. */
+"Something went wrong. Please try again later." = "Something went wrong. Please try again later.";
+
+/* No comment provided by engineer. */
+"sorry" = "sorry";
+
+/* No comment provided by engineer. */
+"Sorry" = "Sorry";
+
+/* No comment provided by engineer. */
+"Sorry you can not update your document. You have already submitted document for approval and we are processing. Please try again later." = "Sorry you can not update your document. You have already submitted document for approval and we are processing. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry you can not update your Emirates ID. You have already submitted Emirates ID for approval and we are still processing. Please try again later." = "Sorry you can not update your Emirates ID. You have already submitted Emirates ID for approval and we are still processing. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry you can not update your Passport. You have already submitted Passport for approval and we are still processing. Please try again later." = "Sorry you can not update your Passport. You have already submitted Passport for approval and we are still processing. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry you can not update your Trade License. You have already submitted Trade License for approval and we are still processing. Please try again later." = "Sorry you can not update your Trade License. You have already submitted Trade License for approval and we are still processing. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry you can not update your Visa. You have already submitted Visa for approval and we are still processing. Please try again later." = "Sorry you can not update your Visa. You have already submitted Visa for approval and we are still processing. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry!" = "Sorry!";
+
+/* No comment provided by engineer. */
+"Sorry, no detail available. Please try again later." = "Sorry, no detail available. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, no pricing available. Please try again later." = "Sorry, no pricing available. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, not able to apply promo. Please try again later." = "Sorry, not able to apply promo. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, not able to cancel booking. Please try again later." = "Sorry, not able to cancel booking. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, not able to update status. Please try again later." = "Sorry, not able to update status. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, only mobile number can be added as primary mobile. " = "Sorry, only mobile number can be added as primary mobile. ";
+
+/* No comment provided by engineer. */
+"Sorry, there are no outstanding invoices available for selected filter." = "Sorry, there are no outstanding invoices available for selected filter.";
+
+/* No comment provided by engineer. */
+"Sorry, there are no past payment details available for selected filter." = "Sorry, there are no past payment details available for selected filter.";
+
+/* No comment provided by engineer. */
+"Sorry, there are no past payment details available. Please try again later." = "Sorry, there are no past payment details available. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, there are no services available. Please try again later." = "Sorry, there are no services available. Please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, we are facing some internal issue, please try again later." = "Sorry, we are facing some internal issue, please try again later.";
+
+/* No comment provided by engineer. */
+"Sorry, we are facing some technical problems. Please try again later" = "Sorry, we are facing some technical problems. Please try again later";
+
+/* No comment provided by engineer. */
+"Sorry, you are not allowed to add same contact information. " = "Sorry, you are not allowed to add same contact information. ";
+
+/* No comment provided by engineer. */
+"sorry.unable.completeRequest" = "sorry.unable.completeRequest";
+
+/* No comment provided by engineer. */
+"Staging" = "Staging";
+
+/* No comment provided by engineer. */
+"Staging Version" = "Staging Version";
+
+/* No comment provided by engineer. */
+"stay" = "stay";
+
+/* No comment provided by engineer. */
+"Step" = "Step";
+
+/* No comment provided by engineer. */
+"step" = "step";
+
+/* No comment provided by engineer. */
+"steps" = "steps";
+
+/* No comment provided by engineer. */
+"submit" = "submit";
+
+/* No comment provided by engineer. */
+"submit.feedback" = "submit.feedback";
+
+/* No comment provided by engineer. */
+"Submitting" = "Submitting";
+
+/* No comment provided by engineer. */
+"Submitting Form" = "Submitting Form";
+
+/* No comment provided by engineer. */
+"Subtotal" = "Subtotal";
+
+/* No comment provided by engineer. */
+"success" = "success";
+
+/* No comment provided by engineer. */
+"Success" = "Success";
+
+/* No comment provided by engineer. */
+"Sure" = "Sure";
+
+/* No comment provided by engineer. */
+"sure.title" = "sure.title";
+
+/* No comment provided by engineer. */
+"take.anotherFile" = "take.anotherFile";
+
+/* No comment provided by engineer. */
+"take.anotherPhoto" = "take.anotherPhoto";
+
+/* No comment provided by engineer. */
+"take.anotherPicture" = "take.anotherPicture";
+
+/* No comment provided by engineer. */
+"take.photo.filename" = "take.photo.filename";
+
+/* No comment provided by engineer. */
+"technical.issues" = "technical.issues";
+
+/* No comment provided by engineer. */
+"Technician - Arrived" = "Technician - Arrived";
+
+/* No comment provided by engineer. */
+"Technician - Delayed" = "Technician - Delayed";
+
+/* No comment provided by engineer. */
+"Technician - On The Way" = "Technician - On The Way";
+
+/* No comment provided by engineer. */
+"tenancy" = "tenancy";
+
+/* No comment provided by engineer. */
+"Tenant Contract Details" = "Tenant Contract Details";
+
+/* No comment provided by engineer. */
+"Tenant Details" = "Tenant Details";
+
+/* No comment provided by engineer. */
+"tenant.photoDocs.title" = "tenant.photoDocs.title";
+
+/* No comment provided by engineer. */
+"Terms & Conditions" = "Terms & Conditions";
+
+/* No comment provided by engineer. */
+"terms.condition.message" = "terms.condition.message";
+
+/* No comment provided by engineer. */
+"termsconditions.title" = "termsconditions.title";
+
+/* No comment provided by engineer. */
+"Thank You!" = "Thank You!";
+
+/* No comment provided by engineer. */
+"Thanks for your patience! We will be back soon." = "Thanks for your patience! We will be back soon.";
+
+/* No comment provided by engineer. */
+"thanks.interest" = "thanks.interest";
+
+/* No comment provided by engineer. */
+"thanks.registerYourInterest" = "thanks.registerYourInterest";
+
+/* No comment provided by engineer. */
+"thanks.valuable.feedback" = "thanks.valuable.feedback";
+
+/* No comment provided by engineer. */
+"The %@ will come to your home to complete the service." = "The %@ will come to your home to complete the service.";
+
+/* No comment provided by engineer. */
+"The application instance is not registered on the server yet. APNs device token was not received by the Mobile Messaging SDK. Make sure your app is set up correctly to work with remote notifications." = "The application instance is not registered on the server yet. APNs device token was not received by the Mobile Messaging SDK. Make sure your app is set up correctly to work with remote notifications.";
+
+/* No comment provided by engineer. */
+"The application instance is not registered on the server yet. The registration will be perfomed eventually. Subscribe to the notification `MMRegistrationUpdated` to be notified as the registration succeeded." = "The application instance is not registered on the server yet. The registration will be perfomed eventually. Subscribe to the notification `MMRegistrationUpdated` to be notified as the registration succeeded.";
+
+/* No comment provided by engineer. */
+"The construction of your property %@ has completed. " = "The construction of your property %@ has completed. ";
+
+/* No comment provided by engineer. */
+"The country code is invalid." = "The country code is invalid.";
+
+/* No comment provided by engineer. */
+"The number provided is invalid." = "The number provided is invalid.";
+
+/* No comment provided by engineer. */
+"The number provided is too long." = "The number provided is too long.";
+
+/* No comment provided by engineer. */
+"The number provided is too short." = "The number provided is too short.";
+
+/* No comment provided by engineer. */
+"This function is deprecated." = "This function is deprecated.";
+
+/* No comment provided by engineer. */
+"This is a Disclaimer Text" = "This is a Disclaimer Text";
+
+/* No comment provided by engineer. */
+"This service is powered by Service Market." = "This service is powered by Service Market.";
+
+/* No comment provided by engineer. */
+"Time Taken" = "Time Taken";
+
+/* No comment provided by engineer. */
+"Total Admin Fees" = "Total Admin Fees";
+
+/* No comment provided by engineer. */
+"Total Installments" = "Total Installments";
+
+/* No comment provided by engineer. */
+"Total Service Fees" = "Total Service Fees";
+
+/* No comment provided by engineer. */
+"Total to Pay" = "Total to Pay";
+
+/* No comment provided by engineer. */
+"total.docUpload.pending" = "total.docUpload.pending";
+
+/* No comment provided by engineer. */
+"Touch ID" = "Touch ID";
+
+/* No comment provided by engineer. */
+"touch.id" = "touch.id";
+
+/* No comment provided by engineer. */
+"Trade License" = "Trade License";
+
+/* No comment provided by engineer. */
+"Trade License update failed." = "Trade License update failed.";
+
+/* No comment provided by engineer. */
+"Transaction Selected" = "Transaction Selected";
+
+/* No comment provided by engineer. */
+"Transactions Selected" = "Transactions Selected";
+
+/* No comment provided by engineer. */
+"Trouble uploading documents?" = "Trouble uploading documents?";
+
+/* No comment provided by engineer. */
+"Trouble uploading emirates id?" = "Trouble uploading emirates id?";
+
+/* No comment provided by engineer. */
+"Trouble uploading passport?" = "Trouble uploading passport?";
+
+/* No comment provided by engineer. */
+"Trouble uploading trade license?" = "Trouble uploading trade license?";
+
+/* No comment provided by engineer. */
+"Trouble uploading visa?" = "Trouble uploading visa?";
+
+/* No comment provided by engineer. */
+"trouble.raising.serviceRequest" = "trouble.raising.serviceRequest";
+
+/* No comment provided by engineer. */
+"Unexpected error occured. Please try again later" = "Unexpected error occured. Please try again later";
+
+/* No comment provided by engineer. */
+"Unknow error. Please try again later." = "Unknow error. Please try again later.";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unknown";
+
+/* No comment provided by engineer. */
+"Unknown Document" = "Unknown Document";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Unknown error";
+
+/* No comment provided by engineer. */
+"Unknown error. Please try again later." = "Unknown error. Please try again later.";
+
+/* No comment provided by engineer. */
+"Unknown!" = "Unknown!";
+
+/* No comment provided by engineer. */
+"unknown.error" = "unknown.error";
+
+/* No comment provided by engineer. */
+"Update your mobile number" = "Update your mobile number";
+
+/* No comment provided by engineer. */
+"Update your phone number" = "Update your phone number";
+
+/* No comment provided by engineer. */
+"updating" = "updating";
+
+/* No comment provided by engineer. */
+"Upload" = "Upload";
+
+/* No comment provided by engineer. */
+"upload" = "upload";
+
+/* No comment provided by engineer. */
+"Upload Again" = "Upload Again";
+
+/* No comment provided by engineer. */
+"Upload Documents" = "Upload Documents";
+
+/* No comment provided by engineer. */
+"UPLOAD EMIRATES ID" = "UPLOAD EMIRATES ID";
+
+/* No comment provided by engineer. */
+"Upload identification documents" = "Upload identification documents";
+
+/* No comment provided by engineer. */
+"UPLOAD PASSPORT" = "UPLOAD PASSPORT";
+
+/* No comment provided by engineer. */
+"Upload Photo" = "Upload Photo";
+
+/* No comment provided by engineer. */
+"UPLOAD TRADE LICENSE" = "UPLOAD TRADE LICENSE";
+
+/* No comment provided by engineer. */
+"UPLOAD VISA" = "UPLOAD VISA";
+
+/* No comment provided by engineer. */
+"Upload your documents so that we always have your up to date IDs in our records." = "Upload your documents so that we always have your up to date IDs in our records.";
+
+/* No comment provided by engineer. */
+"Upload your Trade License so that we always have your up to date IDs in our records." = "Upload your Trade License so that we always have your up to date IDs in our records.";
+
+/* No comment provided by engineer. */
+"upload.again" = "upload.again";
+
+/* No comment provided by engineer. */
+"upload.again.caps" = "upload.again.caps";
+
+/* No comment provided by engineer. */
+"upload.again.small" = "upload.again.small";
+
+/* No comment provided by engineer. */
+"upload.date" = "upload.date";
+
+/* No comment provided by engineer. */
+"upload.deleted.document" = "upload.deleted.document";
+
+/* No comment provided by engineer. */
+"upload.documents.title" = "upload.documents.title";
+
+/* No comment provided by engineer. */
+"upload.failed" = "upload.failed";
+
+/* No comment provided by engineer. */
+"upload.page.firstLastDoc" = "upload.page.firstLastDoc";
+
+/* No comment provided by engineer. */
+"uploaded.by" = "uploaded.by";
+
+/* No comment provided by engineer. */
+"uploaded.documents" = "uploaded.documents";
+
+/* No comment provided by engineer. */
+"uploading.files" = "uploading.files";
+
+/* No comment provided by engineer. */
+"Valid metadata is missing." = "Valid metadata is missing.";
+
+/* No comment provided by engineer. */
+"Valid till" = "Valid till";
+
+/* No comment provided by engineer. */
+"validate.request.error" = "validate.request.error";
+
+/* No comment provided by engineer. */
+"Validating" = "Validating";
+
+/* No comment provided by engineer. */
+"validation.empty.email" = "validation.empty.email";
+
+/* No comment provided by engineer. */
+"validation.empty.password" = "validation.empty.password";
+
+/* No comment provided by engineer. */
+"validation.invalid.confirmPassword" = "validation.invalid.confirmPassword";
+
+/* No comment provided by engineer. */
+"validation.invalid.countryCode" = "validation.invalid.countryCode";
+
+/* No comment provided by engineer. */
+"validation.invalid.emailPassowrd" = "validation.invalid.emailPassowrd";
+
+/* No comment provided by engineer. */
+"validation.invalid.password" = "validation.invalid.password";
+
+/* No comment provided by engineer. */
+"validation.invalid.phoneNumber" = "validation.invalid.phoneNumber";
+
+/* No comment provided by engineer. */
+"validation.password" = "validation.password";
+
+/* No comment provided by engineer. */
+"validation.provide.necessaryConditionsRequest" = "validation.provide.necessaryConditionsRequest";
+
+/* No comment provided by engineer. */
+"validation.valid.categorySubcategory" = "validation.valid.categorySubcategory";
+
+/* No comment provided by engineer. */
+"validation.valid.location" = "validation.valid.location";
+
+/* No comment provided by engineer. */
+"validation.valid.phoneNumber" = "validation.valid.phoneNumber";
+
+/* No comment provided by engineer. */
+"validation.valid.property" = "validation.valid.property";
+
+/* No comment provided by engineer. */
+"verified.on" = "verified.on";
+
+/* No comment provided by engineer. */
+"Verify Phone" = "Verify Phone";
+
+/* No comment provided by engineer. */
+"Verify Phone Number" = "Verify Phone Number";
+
+/* No comment provided by engineer. */
+"verifying" = "verifying";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* No comment provided by engineer. */
+"View Details" = "View Details";
+
+/* No comment provided by engineer. */
+"View Photo" = "View Photo";
+
+/* No comment provided by engineer. */
+"view.records.payments" = "view.records.payments";
+
+/* No comment provided by engineer. */
+"Visa update failed." = "Visa update failed.";
+
+/* No comment provided by engineer. */
+"voice.request.submitted" = "voice.request.submitted";
+
+/* No comment provided by engineer. */
+"warning" = "warning";
+
+/* Home Service */
+"Warning" = "Warning";
+
+/* No comment provided by engineer. */
+"We are unable to fetch Authority list. Please try again later." = "We are unable to fetch Authority list. Please try again later.";
+
+/* No comment provided by engineer. */
+"We are unable to fetch bank list. Please try again later." = "We are unable to fetch bank list. Please try again later.";
+
+/* No comment provided by engineer. */
+"We are unable to fetch data at this moment. Please try again later." = "We are unable to fetch data at this moment. Please try again later.";
+
+/* No comment provided by engineer. */
+"We are unable to load this page at the moment." = "We are unable to load this page at the moment.";
+
+/* No comment provided by engineer. */
+"We are unable to save data at this moment. Please try again later." = "We are unable to save data at this moment. Please try again later.";
+
+/* No comment provided by engineer. */
+"We are unable to submit data at this moment. Please try again later." = "We are unable to submit data at this moment. Please try again later.";
+
+/* No comment provided by engineer. */
+"We don't have sufficient information in our system to perform this activity. We are working to fix it." = "We don't have sufficient information in our system to perform this activity. We are working to fix it.";
+
+/* No comment provided by engineer. */
+"We have upgraded your Emaar One experience!" = "We have upgraded your Emaar One experience!";
+
+/* No comment provided by engineer. */
+"We need your address to deliver important documents right to your doorstep." = "We need your address to deliver important documents right to your doorstep.";
+
+/* No comment provided by engineer. */
+"We need your basic information mobile" = "We need your basic information mobile";
+
+/* No comment provided by engineer. */
+"We need your primary mobile number." = "We need your primary mobile number.";
+
+/* No comment provided by engineer. */
+"We need your verified primary mobile." = "We need your verified primary mobile.";
+
+/* No comment provided by engineer. */
+"We will book a professional %@(s) for you for the date and time you've requested." = "We will book a professional %@(s) for you for the date and time you've requested.";
+
+/* No comment provided by engineer. */
+"We're under maintenance!" = "We're under maintenance!";
+
+/* No comment provided by engineer. */
+"What's included?" = "What's included?";
+
+/* No comment provided by engineer. */
+"Wrong Pin" = "Wrong Pin";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"Yes, proceed" = "Yes, proceed";
+
+/* No comment provided by engineer. */
+"yes.exit" = "yes.exit";
+
+/* No comment provided by engineer. */
+"yes.proceed" = "yes.proceed";
+
+/* No comment provided by engineer. */
+"You approved the quote successfully." = "You approved the quote successfully.";
+
+/* No comment provided by engineer. */
+"You are approving the revised quote. This will be charged on your authorized card." = "You are approving the revised quote. This will be charged on your authorized card.";
+
+/* No comment provided by engineer. */
+"You are now the proud owner of %@. We will keep you informed of the progress in construction for your property." = "You are now the proud owner of %@. We will keep you informed of the progress in construction for your property.";
+
+/* No comment provided by engineer. */
+"You are rejecting the revised quote." = "You are rejecting the revised quote.";
+
+/* No comment provided by engineer. */
+"You cancelled your booking successfully." = "You cancelled your booking successfully.";
+
+/* No comment provided by engineer. */
+"You do not have any payment receipts from %@ till today" = "You do not have any payment receipts from %@ till today";
+
+/* No comment provided by engineer. */
+"You don't have any outstanding invoices to pay." = "You don't have any outstanding invoices to pay.";
+
+/* No comment provided by engineer. */
+"You rejected the quote successfully." = "You rejected the quote successfully.";
+
+/* No comment provided by engineer. */
+"You will need to upload " = "You will need to upload ";
+
+/* No comment provided by engineer. */
+"You will need to upload first page and last page of Passport." = "You will need to upload first page and last page of Passport.";
+
+/* No comment provided by engineer. */
+"You will need to upload first page and last page of Trade License." = "You will need to upload first page and last page of Trade License.";
+
+/* No comment provided by engineer. */
+"You will need to upload first page and last page of Visa." = "You will need to upload first page and last page of Visa.";
+
+/* No comment provided by engineer. */
+"You will need to upload front page and back page of Emirates ID." = "You will need to upload front page and back page of Emirates ID.";
+
+/* No comment provided by engineer. */
+"You will pay the %@ in cash. (If cash selected)" = "You will pay the %@ in cash. (If cash selected)";
+
+/* No comment provided by engineer. */
+"Your booking cancelled successfully." = "Your booking cancelled successfully.";
+
+/* No comment provided by engineer. */
+"Your document is already approved. If you delete document, Emaar will not have any document reference for your document and you will have to upload it again and it will go through apporval ." = "Your document is already approved. If you delete document, Emaar will not have any document reference for your document and you will have to upload it again and it will go through apporval .";
+
+/* No comment provided by engineer. */
+"Your document is already approved. If you upload a new document it will go through approval again." = "Your document is already approved. If you upload a new document it will go through approval again.";
+
+/* No comment provided by engineer. */
+"Your document is rejected. Please upload new document detail." = "Your document is rejected. Please upload new document detail.";
+
+/* No comment provided by engineer. */
+"Your document is rejected. Please upload new document.detail." = "Your document is rejected. Please upload new document.detail.";
+
+/* No comment provided by engineer. */
+"Your email address has been verified." = "Your email address has been verified.";
+
+/* No comment provided by engineer. */
+"Your email has been updated successfully." = "Your email has been updated successfully.";
+
+/* No comment provided by engineer. */
+"Your email is not verified. Would you like to verify now?" = "Your email is not verified. Would you like to verify now?";
+
+/* No comment provided by engineer. */
+"Your email update failed" = "Your email update failed";
+
+/* No comment provided by engineer. */
+"Your email update failed." = "Your email update failed.";
+
+/* No comment provided by engineer. */
+"Your emirates id is already approved. If you delete emirates id, Emaar will not have any reference for your emirates id and you will have to upload it again and it will go through apporval." = "Your emirates id is already approved. If you delete emirates id, Emaar will not have any reference for your emirates id and you will have to upload it again and it will go through apporval.";
+
+/* No comment provided by engineer. */
+"Your Emirates ID is already approved. If you upload a new Emirates ID it will go through approval again." = "Your Emirates ID is already approved. If you upload a new Emirates ID it will go through approval again.";
+
+/* No comment provided by engineer. */
+"Your Emirates ID is rejected. Please upload new Emirates ID detail." = "Your Emirates ID is rejected. Please upload new Emirates ID detail.";
+
+/* No comment provided by engineer. */
+"Your ID has been deleted. Please upload new ID again." = "Your ID has been deleted. Please upload new ID again.";
+
+/* No comment provided by engineer. */
+"Your ID is now being processed. We will notify you if it is approved or rejected." = "Your ID is now being processed. We will notify you if it is approved or rejected.";
+
+/* No comment provided by engineer. */
+"Your mobile is not verified. Would you like to verify now?" = "Your mobile is not verified. Would you like to verify now?";
+
+/* No comment provided by engineer. */
+"Your mobile number has been verified and updated successfully." = "Your mobile number has been verified and updated successfully.";
+
+/* No comment provided by engineer. */
+"Your mobile number update failed." = "Your mobile number update failed.";
+
+/* No comment provided by engineer. */
+"Your passport is already approved. If you delete passport, Emaar will not have any reference for your passport and you will have to upload it again and it will go through apporval." = "Your passport is already approved. If you delete passport, Emaar will not have any reference for your passport and you will have to upload it again and it will go through apporval.";
+
+/* No comment provided by engineer. */
+"Your Passport is already approved. If you upload a new Passport it will go through approval again." = "Your Passport is already approved. If you upload a new Passport it will go through approval again.";
+
+/* No comment provided by engineer. */
+"Your Passport is rejected. Please upload new Passport detail." = "Your Passport is rejected. Please upload new Passport detail.";
+
+/* No comment provided by engineer. */
+"Your password has been updated successfully" = "Your password has been updated successfully";
+
+/* No comment provided by engineer. */
+"Your password is changed. Please sign in with new credentials." = "Your password is changed. Please sign in with new credentials.";
+
+/* No comment provided by engineer. */
+"Your password update failed" = "Your password update failed";
+
+/* No comment provided by engineer. */
+"Your payment has been cancelled!" = "Your payment has been cancelled!";
+
+/* No comment provided by engineer. */
+"Your payment has been received suceessfully." = "Your payment has been received suceessfully.";
+
+/* No comment provided by engineer. */
+"Your payment has declined!" = "Your payment has declined!";
+
+/* No comment provided by engineer. */
+"Your payment has failed!" = "Your payment has failed!";
+
+/* No comment provided by engineer. */
+"Your phone number has been updated successfully." = "Your phone number has been updated successfully.";
+
+/* No comment provided by engineer. */
+"Your phone number is not verified." = "Your phone number is not verified.";
+
+/* No comment provided by engineer. */
+"Your phone number update failed." = "Your phone number update failed.";
+
+/* No comment provided by engineer. */
+"Your primary email has been changed. Please sign in using your new email." = "Your primary email has been changed. Please sign in using your new email.";
+
+/* No comment provided by engineer. */
+"Your property %@ has been handed over. " = "Your property %@ has been handed over. ";
+
+/* No comment provided by engineer. */
+"Your property is handed over. Do you need a move-in permit?" = "Your property is handed over. Do you need a move-in permit?";
+
+/* No comment provided by engineer. */
+"Your rating could not be saved at this moment. Please try again later." = "Your rating could not be saved at this moment. Please try again later.";
+
+/* No comment provided by engineer. */
+"Your request has been approved" = "Your request has been approved";
+
+/* No comment provided by engineer. */
+"Your request has been rejected" = "Your request has been rejected";
+
+/* No comment provided by engineer. */
+"Your request was submitted successfully." = "Your request was submitted successfully.";
+
+/* No comment provided by engineer. */
+"Your service request %@ is resolved and closed." = "Your service request %@ is resolved and closed.";
+
+/* No comment provided by engineer. */
+"Your statement of account has been sent to your registered primary email address." = "Your statement of account has been sent to your registered primary email address.";
+
+/* No comment provided by engineer. */
+"Your trade license is already approved. If you delete trade license, Emaar will not have any reference for your trade license and you will have to upload it again and it will go through apporval." = "Your trade license is already approved. If you delete trade license, Emaar will not have any reference for your trade license and you will have to upload it again and it will go through apporval.";
+
+/* No comment provided by engineer. */
+"Your Trade License is already approved. If you upload a new Trade License it will go through approval again." = "Your Trade License is already approved. If you upload a new Trade License it will go through approval again.";
+
+/* No comment provided by engineer. */
+"Your Trade License is rejected. Please upload new Trade License detail." = "Your Trade License is rejected. Please upload new Trade License detail.";
+
+/* No comment provided by engineer. */
+"Your visa is already approved. If you delete visa, Emaar will not have any reference for your visa and you will have to upload it again and it will go through apporval." = "Your visa is already approved. If you delete visa, Emaar will not have any reference for your visa and you will have to upload it again and it will go through apporval.";
+
+/* No comment provided by engineer. */
+"Your Visa is already approved. If you upload a new Visa it will go through approval again." = "Your Visa is already approved. If you upload a new Visa it will go through approval again.";
+
+/* No comment provided by engineer. */
+"Your Visa is rejected. Please upload new Visa detail." = "Your Visa is rejected. Please upload new Visa detail.";
+
